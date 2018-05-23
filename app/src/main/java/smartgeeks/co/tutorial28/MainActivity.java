@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         btnSeleccionar = (Button) findViewById(R.id.btnSeleccionar);
         btnEncriptar = (Button) findViewById(R.id.btnEncriptar);
         txtViewContacto = (TextView) findViewById(R.id.txtViewContact);
-      //  txtViewEncriptado = (TextView) findViewById(R.id.txtViewEncript);
+        txtViewEncriptado = (TextView) findViewById(R.id.txtViewEncript);
 
 
         //Prueba 1
