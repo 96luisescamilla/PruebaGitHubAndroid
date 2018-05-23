@@ -38,8 +38,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        btnGuardar = (Button)findViewById(R.id.btnGuardar);
-        btnSeleccionar = (Button) findViewById(R.id.btnSeleccionar);
+       // btnGuardar = (Button)findViewById(R.id.btnGuardar);
+        //btnSeleccionar = (Button) findViewById(R.id.btnSeleccionar);
         btnEncriptar = (Button) findViewById(R.id.btnEncriptar);
         txtViewContacto = (TextView) findViewById(R.id.txtViewContact);
         txtViewEncriptado = (TextView) findViewById(R.id.txtViewEncript);
